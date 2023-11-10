@@ -3,7 +3,6 @@ List of Free Resource Video Links
 
 ## 使用方法 url="YOUR VIDEOS URL"
 
-1. Ckplayer - https://www.ckplayer.vip/jiexi/?url=
 2. Cloud Analysis - https://jx.yparse.com/index.php?url=
 3. 8090 - https://www.8090g.cn/?url=
 4. ckplayer - https://www.ckplayer.vip/jiexi/?url=
