@@ -5,7 +5,6 @@ List of Free Resource Video Links
 
 2. Cloud Analysis - https://jx.yparse.com/index.php?url=
 3. 8090 - https://www.8090g.cn/?url=
-4. ckplayer - https://www.ckplayer.vip/jiexi/?url=
 5. qqwtt - https://jx.qqwtt.com/?url=
 6. Pouyun - https://www.pouyun.com/?url=
 7. ⑤号接口 - https://jx.m3u8.tv/jiexi/?url=
