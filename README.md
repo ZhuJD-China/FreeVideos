@@ -35,4 +35,3 @@ List of Free Resource Video Links
 30. 8090 - https://www.8090g.cn/?url=
 31. Qianqi - https://api.qianqi.net/vip/?url=
 32. Sample Image - https://jx.yangtu.top/?url=
-33. CK - https://www.ckplayer.vip/jiexi/?url=
