@@ -1,7 +1,7 @@
 # FreeVideos
 List of Free Resource Video Links
 
-## 使用方法 url=<YOUR VIDEOS URL>
+## 使用方法 url="YOUR VIDEOS URL"
 
 1. Ckplayer - https://www.ckplayer.vip/jiexi/?url=
 2. Cloud Analysis - https://jx.yparse.com/index.php?url=
